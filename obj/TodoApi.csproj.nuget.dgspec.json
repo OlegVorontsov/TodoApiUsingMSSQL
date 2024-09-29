@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\0\\VSCode\\TodoApiUsingMSSQL\\TodoApi.csproj": {}
+    "c:\\Users\\0\\VSCode\\TodoApiUsingMSSQL\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\0\\VSCode\\TodoApiUsingMSSQL\\TodoApi.csproj": {
+    "c:\\Users\\0\\VSCode\\TodoApiUsingMSSQL\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\0\\VSCode\\TodoApiUsingMSSQL\\TodoApi.csproj",
+        "projectUniqueName": "c:\\Users\\0\\VSCode\\TodoApiUsingMSSQL\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\0\\VSCode\\TodoApiUsingMSSQL\\TodoApi.csproj",
+        "projectPath": "c:\\Users\\0\\VSCode\\TodoApiUsingMSSQL\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\0\\VSCode\\TodoApiUsingMSSQL\\obj\\",
+        "outputPath": "c:\\Users\\0\\VSCode\\TodoApiUsingMSSQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\0\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -54,6 +54,10 @@
               "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.8, )"
             },
